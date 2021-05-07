@@ -1,6 +1,6 @@
-# DeltaFive
+# [DeltaFive](http://deltafive.rf.gd/?i=1#)
 
-DeltaFive é a solução de um probelma da comunidade gamer que é organizar campeonatos amadores.
+DeltaFive é a solução de um problema da comunidade gamer que é organizar campeonatos amadores com facilidade.
 
 ![Delta Five](https://user-images.githubusercontent.com/83791891/117380407-ff42a680-aeaf-11eb-922d-825ffb224d56.gif)
 
