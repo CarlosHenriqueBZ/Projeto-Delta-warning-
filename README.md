@@ -8,7 +8,7 @@ DeltaFive é a solução de um problema da comunidade gamer que é organizar cam
 
 Valorant é um jogo eletrônico multijogador gratuito para jogar de tiro em primeira pessoa desenvolvido e publicado pela [Riot Games](https://www.riotgames.com/pt-br)
 
-![vava](https://user-images.githubusercontent.com/83791891/117380626-8859dd80-aeb0-11eb-9cd4-472834feb70a.gif)
+![avav2](https://user-images.githubusercontent.com/83791891/117380831-028a6200-aeb1-11eb-8ef1-8cfc0714f72b.gif)
 
 
 ## Linguagens
