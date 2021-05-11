@@ -1,4 +1,4 @@
-# [DeltaFive](http://deltafive.rf.gd/?i=1#)
+# [DeltaFive](https://deltafive.netlify.app/#)
 
 DeltaFive é a solução de um problema da comunidade gamer que é organizar campeonatos amadores com facilidade.
 
